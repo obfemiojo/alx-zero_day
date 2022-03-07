@@ -1,1 +1,1 @@
-Created a new directory called 0x03-git in your alx-zero_day repo.
+Created a new directory called 0x03-git in my alx-zero_day repo.
